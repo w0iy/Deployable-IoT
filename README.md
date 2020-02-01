@@ -10,3 +10,5 @@ A system of boards (mostly assembled) that can be deployed to provide a remote I
 http://sites.google.com/site/radiofarmprojects
 for ordering and more info
 
+This project is released under the terms of the TAPR NCL which is availabe in an adjacent repository.
+
